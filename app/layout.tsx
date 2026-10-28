@@ -32,8 +32,8 @@ export const metadata: Metadata = {
   title,
   description,
   icons: {
-    icon: assetPath("/icon.png"),
-    apple: assetPath("/apple-icon.png"),
+    icon: assetPath("/icon.png?v=star"),
+    apple: assetPath("/apple-icon.png?v=star"),
   },
   openGraph: {
     title,
