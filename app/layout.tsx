@@ -22,8 +22,7 @@ const jbMono = JetBrains_Mono({
   display: "swap",
 });
 
-// Placeholder until the client picks this site's own domain.
-const siteUrl = "https://p32.ltd";
+const siteUrl = "https://cyber.p32.ltd";
 const title = "Cyber Intelligence & Exposure | P32";
 const description =
   "P32 works with governments, national cyber agencies and critical-sector operators. We track the adversaries that target you, test whether they can actually reach you, and tell you what to do first.";
